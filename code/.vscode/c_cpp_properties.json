@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/ap/inc",
+                "${workspaceFolder}/bsp",
+                "${workspaceFolder}/lib_drv/n32l406x/inc",
+                "${workspaceFolder}/lib_drv/n32l406x/core",
+                "${workspaceFolder}/modules",
+                "${workspaceFolder}/system",
+                "${workspaceFolder}/system/shell/inc"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "G:\\jianping\\software\\mingw64\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

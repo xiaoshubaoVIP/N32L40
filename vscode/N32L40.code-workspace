@@ -1,0 +1,71 @@
+{
+	"folders": [
+        {
+            "path": "..\\code"
+        },
+        {
+            "path": "../pack"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "common.h": "c",
+            "hal_adc.h": "c",
+            "n32l40x.h": "c",
+            "bsp_config.h": "c",
+            "hal_tim.h": "c",
+            "config.h": "c",
+            "hal_gpio.h": "c",
+            "sc0607_describe.h": "c",
+            "string.h": "c",
+            "hal_uart.h": "c",
+            "stdint.h": "c",
+            "hal_watchdog.h": "c",
+            "hal_lcd.h": "c",
+            "board.h": "c",
+            "hal_rtc.h": "c",
+            "polling.h": "c",
+            "debug.h": "c",
+            "qep_port.h": "c",
+            "sceneinstance.h": "c",
+            "compare": "c",
+            "n32l40x_conf.h": "c",
+            "n32l40x_pwr.h": "c",
+            "n32l40x_rcc.h": "c",
+            "n32l40x_iwdg.h": "c",
+            "n32l40x_i2c.h": "c",
+            "n32l40x_gpio.h": "c",
+            "n32l40x_exti.h": "c",
+            "n32l40x_opamp.h": "c",
+            "n32l40x_rtc.h": "c",
+            "hal_flash.h": "c",
+            "modules_config.h": "c",
+            "pwrmanager.h": "c",
+            "temp.h": "c",
+            "beep.h": "c",
+            "net_api.h": "c",
+            "app_main.h": "c",
+            "typeinfo": "c",
+            "system.h": "c",
+            "smoke.h": "c",
+            "app_co.h": "c",
+            "app_smoke.h": "c",
+            "lcd.h": "c",
+            "app_wifi.h": "c",
+            "n32l40x_lptim.h": "c",
+            "co.h": "c",
+            "sc01_config.h": "c",
+            "limits": "c",
+            "cmath": "c",
+            "ctype.h": "c",
+            "stdio.h": "c",
+            "stdarg.h": "c",
+            "app_rf.h": "c",
+            "shell_ext.h": "c",
+            "shell.h": "c",
+            "sc200_config.h": "c",
+            "xc01_config.h": "c",
+            "radio_api.h": "c"
+        }
+    }
+}
